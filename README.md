@@ -77,4 +77,4 @@ All files are written in standard C and compile with standard compilation flags:
 gcc -Wall -Wextra -Werror *.c
 ```
 
-*Maintained by ykiraz.*
+*Maintained by EmreQraz.*
